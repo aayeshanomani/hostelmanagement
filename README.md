@@ -1,4 +1,4 @@
-https://play.google.com/store/apps/details?id=com.saikrishna.cloudpg&hl=en_IN
+https://play
 
 # PG/Hostel Management app (Made with Flutter)
 
